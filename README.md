@@ -4,12 +4,9 @@ this is module used for simplify all operation
 ## example
 
 CRUD operation to firebase runtime database
-<style>
- .war{
-    padding:0.5rem;
+
+
+<h3 style="   padding:0.5rem;
     background-color:red;
     color:white;
-    border-radius:0.4rem;
- }
-</style>
-<h3 class="war">Warnign</h3>
+    border-radius:0.4rem;">Warnign</h3>
